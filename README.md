@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+I'm a first-year PhD student at the [STOR-i centre for doctoral training](https://www.lancaster.ac.uk/stor-i/). I'm broadly interested in experimental design with Bayesian nonparametrics, though I've currently fallen down the rabbit hole of Gaussian processes. Checkout out my website for more info: https://www.lancaster.ac.uk/stor-i-student-sites/daniel-dodd.
 
 <!--
 **Daniel-Dodd/Daniel-DOdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
